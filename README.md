@@ -6,5 +6,5 @@
    4. [Palindrome Permutation](Chapter 1/is_palindrome_permutation.py)
    5. [One Away](Chapter 1/is_oneaway.py)
    6. [String Compression](Chapter 1/str_compression.py)
-   7. [Rotate Matrix](Chapter 1/rotate_matrix)
-   8. [Zero Matrix](Chapter 1/zero_matrix)
+   7. [Rotate Matrix](Chapter 1/rotate_matrix.py)
+   8. [Zero Matrix](Chapter 1/zero_matrix.py)
