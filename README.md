@@ -3,18 +3,26 @@
 <details>
 <summary>Solutions</summary>
 <br>
-1. [Is Unique](chapter1/is_unique.py)
-2. [Check Permutation](chapter1/is_permutation.py)
-3. [URLify](chapter1/urlify.py)
-4. [Palindrome Permutation](chapter1/is_palindrome_permutation.py)
-5. [One Away](chapter1/is_oneaway.py)
-6. [String Compression](chapter1/str_compression.py)
-7. [Rotate Matrix](chapter1/rotate_matrix.py)
-8. [Zero Matrix](chapter1/zero_matrix.py)
+<ol>
+    <li><a href="chapter1/is_unique.py">Is Unique</a></li>
+    <li><a href="chapter1/is_permutation.py">Check Permutation</a></li>
+    <li><a href="chapter1/urlify.py">URLify</a></li>
+    <li><a href="chapter1/is_palindrome_permutation.py">Palindrome Permutation</a></li>
+    <li><a href="chapter1/is_oneaway.py">One Away</a></li>
+    <li><a href="chapter1/str_compression.py">String Compression</a></li>
+    <li><a href="chapter1/rotate_matrix.py">Rotate Matrix</a></li>
+    <li><a href="chapter1/zero_matrix.py">Zero Matrix</a></li>
+</ol>
 </details>
 
 ## Chapter 2 | Linked Lists
-   1. [Remove Dups](chapter2/remove_dups.py)
-   2. [Return Kth to Last](chapter2/kth_to_last.py)
-   3. [Delete Middle Node](chapter2/delete_mid_node.py)
-   4. [Partition](chapter2/partition.py)
+<details>
+<summary>Solutions</summary>
+<br>
+<ol>
+    <li><a href="chapter2/remove_dups.py">Remove Dups</a></li>
+    <li><a href="chapter2/kth_to_last.py">Return Kth to Last</a></li>
+    <li><a href="chapter2/delete_mid_node.py">Delete Middle Node</a></li>
+    <li><a href="chapter2/partition.py">Partition</a></li>
+</ol>
+</details>
