@@ -1,18 +1,16 @@
 # Python solutions to *Cracking the Coding Interview, 6th edition*
 ## Chapter 1 | Arrays and Strings
 <details>
-    <summary>Solutions</summary>
-    <br>
-    <ol>
-        <li>[Is Unique](chapter1/is_unique.py)</li>
-        <li>[Check Permutation](chapter1/is_permutation.py)</li>
-        <li>[URLify](chapter1/urlify.py)</li>
-        <li>[Palindrome Permutation](chapter1/is_palindrome_permutation.py)</li>
-        <li>[One Away](chapter1/is_oneaway.py)</li>
-        <li>[String Compression](chapter1/str_compression.py)</li>
-        <li>[Rotate Matrix](chapter1/rotate_matrix.py)</li>
-        <li>[Zero Matrix](chapter1/zero_matrix.py)</li>
-    </ol>   
+<summary>Solutions</summary>
+<br>
+1. [Is Unique](chapter1/is_unique.py)
+2. [Check Permutation](chapter1/is_permutation.py)
+3. [URLify](chapter1/urlify.py)
+4. [Palindrome Permutation](chapter1/is_palindrome_permutation.py)
+5. [One Away](chapter1/is_oneaway.py)
+6. [String Compression](chapter1/str_compression.py)
+7. [Rotate Matrix](chapter1/rotate_matrix.py)
+8. [Zero Matrix](chapter1/zero_matrix.py)
 </details>
 
 ## Chapter 2 | Linked Lists
