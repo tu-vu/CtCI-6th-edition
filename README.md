@@ -24,5 +24,9 @@
     <li><a href="chapter2/kth_to_last.py">Return Kth to Last</a></li>
     <li><a href="chapter2/delete_mid_node.py">Delete Middle Node</a></li>
     <li><a href="chapter2/partition.py">Partition</a></li>
+    <li><a href="chapter2/sum_lists.py">Sum Lists</a></li>
+    <li><a href="chapter2/is_palindrome.py">Palindrome</a></li>
+    <li><a href="chapter2/intersection.py">Intersection</a></li>
+    <li><a href="chapter2/loop_detection.py">Loop Detection</a></li>
 </ol>
 </details>
