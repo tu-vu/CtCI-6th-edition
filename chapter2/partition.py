@@ -1,5 +1,5 @@
 class Node:
-    def __init__(self, val: int, next):
+    def __init__(self, val: int, next=None):
         self.val = val
         self.next = next
 
@@ -8,17 +8,17 @@ def partition(h: Node, x: int) -> Node:
     while cur:
         if cur.val < x:
             if not less:
-                less = Node(cur.val, None)
+                less = Node(cur.val)
                 end_less = less
             else:
-                end_less.next = Node(cur.val, None)
+                end_less.next = Node(cur.val)
                 end_less = end_less.next
         else:
             if not greater:
-                greater = Node(cur.val, None)
+                greater = Node(cur.val)
                 end_greater = greater
             else:
-                end_greater.next = Node(cur.val, None)
+                end_greater.next = Node(cur.val)
                 end_greater = end_greater.next
         cur = cur.next
     end_less.next = greater
