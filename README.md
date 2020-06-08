@@ -1,6 +1,6 @@
 # Python solutions to *Cracking the Coding Interview, 6th edition*
 ## Chapter 1 | Arrays and Strings
-<details>
+<details open>
 <summary>Solutions</summary>
 <br>
 <ol>
@@ -16,7 +16,7 @@
 </details>
 
 ## Chapter 2 | Linked Lists
-<details>
+<details open>
 <summary>Solutions</summary>
 <br>
 <ol>
