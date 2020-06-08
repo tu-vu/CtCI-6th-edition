@@ -4,7 +4,7 @@ def is_palindrome_permutation(s: str) -> bool:
     cnt = collections.Counter(s)
 
     # Track the number of odd freqs
-    cntt_odd = 0
+    cnt_odd = 0
 
     for c, freq in cnt.items():
         # Skip whitespace
