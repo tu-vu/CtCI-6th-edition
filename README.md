@@ -38,6 +38,9 @@
 <ol>
     <li><a href="chapter4/route_btw_nodes.py">Route Between Nodes</a></li>
     <li><a href="chapter4/minimal_tree.py">Minimal Tree</a></li>
-    <li><a href="chapter4/list_of_depths.py">List of Depths</a></li>
+    <li><a href="chapter4/list_of_depths.py">List of Depths</a></li>    
+    <li><a href="chapter4/check_balanced.py">Check Balanced</a></li>
+    <li><a href="chapter4/validate_bst.py">Validate BST</a></li>
+    <li><a href="chapter4/successor.py">Successor</a></li>
 </ol>
 </details>
