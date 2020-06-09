@@ -30,3 +30,14 @@
     <li><a href="chapter2/loop_detection.py">Loop Detection</a></li>
 </ol>
 </details>
+
+## Chapter 4 | Trees and Graphs
+<details open>
+<summary>Solutions</summary>
+<br>
+<ol>
+    <li><a href="chapter4/route_btw_nodes.py">Route Between Nodes</a></li>
+    <li><a href="chapter4/minimal_tree.py">Minimal Tree</a></li>
+    <li><a href="chapter4/list_of_depths.py">List of Depths</a></li>
+</ol>
+</details>
