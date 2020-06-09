@@ -16,5 +16,5 @@ def minimal_tree(arr: List[int]) -> TreeNode:
     return build_tree(arr, 0, len(arr) - 1)
 '''
 Time complexity: O(N)
-Space complexity: O(N) from stack calls
+Space complexity: O(logN) from stack calls, assuming that tree is balanced so height will be logN
 '''
