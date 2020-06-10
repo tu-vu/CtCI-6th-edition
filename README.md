@@ -41,6 +41,8 @@
     <li><a href="chapter4/list_of_depths.py">List of Depths</a></li>    
     <li><a href="chapter4/check_balanced.py">Check Balanced</a></li>
     <li><a href="chapter4/validate_bst.py">Validate BST</a></li>
-    <li><a href="chapter4/successor.py">Successor</a></li>
+    <li><a href="chapter4/successor.py">Successor</a></li>   
+    <li><a href="chapter4/build_order.py">Build Order</a></li>
+    <li><a href="chapter4/first_common_ancestor.py">First Common Ancestor</a></li>
 </ol>
 </details>
