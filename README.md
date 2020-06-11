@@ -43,6 +43,9 @@
     <li><a href="chapter4/validate_bst.py">Validate BST</a></li>
     <li><a href="chapter4/successor.py">Successor</a></li>   
     <li><a href="chapter4/build_order.py">Build Order</a></li>
-    <li><a href="chapter4/first_common_ancestor.py">First Common Ancestor</a></li>
+    <li><a href="chapter4/first_common_ancestor.py">First Common Ancestor</a></li>    
+    <li><a href="chapter4/bst_sequences.py">BST Sequences</a></li>
+    <li><a href="chapter4/check_subtree.py">Check Subtree</a></li>
+    <li><a href="chapter4/paths_with_sum.py">Paths with Sum</a></li>
 </ol>
 </details>
