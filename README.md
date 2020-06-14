@@ -49,3 +49,16 @@
     <li><a href="chapter4/paths_with_sum.py">Paths with Sum</a></li>
 </ol>
 </details>
+
+## Chapter 5 | Bit Manipulation
+<details open>
+<summary>Solutions</summary>
+<br>
+<ol>
+    <li><a href="chapter5/insertion.py">Insertion</a></li>
+    <li><a href="chapter5/flip_bit_to_win.py">Flip Bit to Win</a></li>
+    <li><a href="chapter5/next_number.py">Next Number</a></li>    
+    <li><a href="chapter5/conversion.py">Conversion</a></li>
+    <li><a href="chapter5/pairwise_swap.py">Pairwise Swap</a></li>
+</ol>
+</details>
