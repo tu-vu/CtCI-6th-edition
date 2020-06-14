@@ -62,3 +62,13 @@
     <li><a href="chapter5/pairwise_swap.py">Pairwise Swap</a></li>
 </ol>
 </details>
+
+## Chapter 8 | Recursion and Dynamic Programming
+<details open>
+<summary>Solutions</summary>
+<br>
+<ol>
+    <li><a href="chapter8/triple_step.py">Triple Steps</a></li>
+    <li><a href="chapter8/robot_in_grid.py">Robot in a Grid</a></li>
+</ol>
+</details>
