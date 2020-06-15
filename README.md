@@ -69,6 +69,11 @@
 <br>
 <ol>
     <li><a href="chapter8/triple_step.py">Triple Steps</a></li>
-    <li><a href="chapter8/robot_in_grid.py">Robot in a Grid</a></li>
+    <li><a href="chapter8/robot_in_grid.py">Robot in a Grid</a></li>    
+    <li><a href="chapter8/magic_index.py">Magic Index</a></li>
+    <li><a href="chapter8/power_set.py">Power Set</a></li>    
+    <li><a href="chapter8/recursive_multiply.py">Recursive Multiply</a></li>
+    <li><a href="chapter8/towers_of_hanoi.py">Towers of Hanoi</a></li>
+    <li><a href="chapter8/permutation_without_dups.py">Permutations without Dups</a></li>
 </ol>
 </details>
