@@ -75,5 +75,8 @@
     <li><a href="chapter8/recursive_multiply.py">Recursive Multiply</a></li>
     <li><a href="chapter8/towers_of_hanoi.py">Towers of Hanoi</a></li>
     <li><a href="chapter8/permutation_without_dups.py">Permutations without Dups</a></li>
+    <li><a href="chapter8/permutation_with_dups.py">Permutations with Dups</a></li>
+    <li><a href="chapter8/parens.py">Parens</a></li>
+    <li><a href="chapter8/paint_fill.py">Paint Fill</a></li>
 </ol>
 </details>
