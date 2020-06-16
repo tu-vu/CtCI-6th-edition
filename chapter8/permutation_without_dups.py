@@ -1,16 +1,16 @@
 from typing import List
 import copy
 def permutation_without_dups(word: str) -> List[List[str]]:
-    def get_permutation(s: List[str], index: int) -> List[List[str]]:
-        if index == 0:
-            return [[s[index]]]
-        subsets = get_permutation(s, index - 1)
-        cur_set = []
+    def get_permutation(s: List[str], n: int) -> List[List[str]]:
+        if n == 1:
+            return [[s[n - 1]]]
+        subsets = get_permutation(s, n - 1)
+        cur = []
         for subset in subsets:
-            for i in range(index + 1):
+            for i in range(n):
                 cpy = copy.deepcopy(subset)
-                cpy.insert(i, s[index])
-                cur_set.append(cpy)
-        return cur_set
+                cpy.insert(i, s[n - 1])
+                cur.append(cpy)
+        return cur
     s = list(word)
-    return get_permutation(s, len(s) - 1)
+    return get_permutation(s, len(s))
